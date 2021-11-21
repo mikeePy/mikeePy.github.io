@@ -62,13 +62,6 @@ h4.heading-4 {
   line-height: 62px;
 }
 
-h4.subscribe-heading {
-  color: #fefefe;
-  text-transform: uppercase;
-  font-size: 24px;
-  font-family: 'Anton', cursive;
-}
-
 h5.member-name {
   padding-top: 16px;
   text-transform: capitalize;
@@ -123,11 +116,6 @@ p.paragraph.hero-description {
   line-height: 32px;
 }
 
-p.paragraph.simple-text {
-  color: #fefefe;
-  font-family: 'Work Sans', cursive;
-}
-
 blockquote.blockquote-1 {
   border-left: .125rem solid #4b21a6;
   color: #3703a6;
@@ -164,11 +152,6 @@ a.link-button.button {
   letter-spacing: 0;
   font-size: 16px;
   font-family: 'Work Sans', cursive;
-}
-
-a.link-button#button-link-2 {
-  border-color: #3703a6;
-  color: #28006b;
 }
 
 a.link-button.button:hover {
